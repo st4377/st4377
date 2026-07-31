@@ -22,60 +22,7 @@ Building real-world products that solve real problems.
 
 🌐 Passionate about building scalable, production-ready applications that are deployed and used by real users.
 
----
 
-## 🛠 Tech Stack
-
-### Languages
-
-- C++
-- JavaScript
-- TypeScript
-- Python
-- SQL
-- Java
-### Frontend
-
-- React
-- Vite
-- HTML
-- CSS
-- Tailwind CSS
-
-### Backend
-
-- Node.js
-- Express.js
-- Flask
-- REST APIs
-- JWT Authentication
-
-### Databases
-
-- PostgreSQL
-- MySQL
-- Supabase
-- MongoDB
-
-### AI
-
-- Python
-- Machine Learning
-- TF-IDF
-- Vector Search
-- Agentic AI
-- LLM Applications
-- AI Automation
-
-### DevOps
-
-- Git
-- GitHub
-- Docker
-- Linux
-- CI/CD
-
----
 
 # 🌍 Production Experience
 
@@ -210,6 +157,60 @@ During my internship at **UPSIFS (Uttar Pradesh State Institute of Forensic Scie
 - Kubernetes
 - Cloud Deployment
 - Scalable Backend Systems
+
+---
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+- C++
+- JavaScript
+- TypeScript
+- Python
+- SQL
+- Java
+### Frontend
+
+- React
+- Vite
+- HTML
+- CSS
+- Tailwind CSS
+
+### Backend
+
+- Node.js
+- Express.js
+- Flask
+- REST APIs
+- JWT Authentication
+
+### Databases
+
+- PostgreSQL
+- MySQL
+- Supabase
+- MongoDB
+
+### AI
+
+- Python
+- Machine Learning
+- TF-IDF
+- Vector Search
+- Agentic AI
+- LLM Applications
+- AI Automation
+
+### DevOps
+
+- Git
+- GitHub
+- Docker
+- Linux
+- CI/CD
 
 ---
 
