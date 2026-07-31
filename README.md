@@ -228,8 +228,6 @@ During my internship at **UPSIFS (Uttar Pradesh State Institute of Forensic Scie
 
 📧 Email: saumiltiwari04@gmail.com
 
-💼 LinkedIn: YOUR_LINKEDIN
-
-💻 Portfolio: (Coming Soon)
+💼 LinkedIn: https://www.linkedin.com/in/saumil-tiwari-386a5728b/
 
 ⭐ If you like my work, consider giving a star to my repositories!
