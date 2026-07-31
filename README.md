@@ -12,15 +12,15 @@ Building real-world products that solve real problems.
 
 ## 🚀 About Me
 
-🧠 A highly analytical and curious engineer who enjoys breaking down complex problems, learning new technologies, and building practical solutions.
+ A highly analytical and curious engineer who enjoys breaking down complex problems, learning new technologies, and building practical solutions.
 
-🎓 B.Tech Computer Science (Cyber Security) @ SRM Institute of Science & Technology
+ B.Tech Computer Science (Cyber Security) @ SRM Institute of Science & Technology
 
-💼 Interned at **Zoho Corporation**, where I worked on the feature development of a large-scale, deep-tech Saas product.  
+ Interned at **Zoho Corporation**, where I worked on the feature development of a large-scale, deep-tech Saas product.  
 
-🖥️ Cyber Security Intern at the **Uttar Pradesh State Institute of Forensic Science (UPSIFS)**, gaining practical experience in digital forensics, cyber investigation, and security tools.
+ Cyber Security Intern at the **Uttar Pradesh State Institute of Forensic Science (UPSIFS)**, gaining practical experience in digital forensics, cyber investigation, and security tools.
 
-🌐 Passionate about building scalable, production-ready applications that are deployed and used by real users.
+ Passionate about building scalable, production-ready applications that are deployed and used by real users.
 
 
 
