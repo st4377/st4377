@@ -40,7 +40,7 @@ Official NGO Website
 
 ✔ Live maintenance
 
-✔ Real users
+✔ Database integration and backend connectivity
 
 ---
 
