@@ -217,9 +217,9 @@ During my internship at **UPSIFS (Uttar Pradesh State Institute of Forensic Scie
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=st4377&show_icons=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st4377&layout=compact"/>
 
 </p>
 
