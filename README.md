@@ -26,7 +26,7 @@ Building real-world products that solve real problems.
 
 # 🌍 Production Experience
 
-Unlike many student projects that remain on localhost, I've worked on applications that are deployed and used by real users.
+I've worked on applications that are deployed and used by real users.
 
 ### 🌐 Jagathi Foundation
 
