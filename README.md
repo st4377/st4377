@@ -14,7 +14,7 @@ Building real-world products that solve real problems.
 
  A highly analytical and curious engineer who enjoys breaking down complex problems, learning new technologies, and building practical solutions.
 
- B.Tech Computer Science (Cyber Security) @ SRM Institute of Science & Technology
+ B.Tech Computer Science (Cyber Security) @ SRMIST Chennai
 
  Interned at **Zoho Corporation**, where I worked on the feature development of a large-scale, deep-tech Saas product.  
 
