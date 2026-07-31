@@ -12,17 +12,15 @@ Building real-world products that solve real problems.
 
 ## 🚀 About Me
 
+🧠 A highly analytical and curious engineer who enjoys breaking down complex problems, learning new technologies, and building practical solutions.
+
 🎓 B.Tech Computer Science (Cyber Security) @ SRM Institute of Science & Technology
 
-💼 Software Development Intern at **Zoho Corporation**
+💼 Interned at **Zoho Corporation**, where I worked on the feature development of a large-scale, deep-tech Saas product.  
 
-🔐 Cyber Security Intern at **Uttar Pradesh State Institute of Forensic Science (UPSIFS)**
+🖥️ Cyber Security Intern at the **Uttar Pradesh State Institute of Forensic Science (UPSIFS)**, gaining practical experience in digital forensics, cyber investigation, and security tools.
 
-🤖 Currently working on **Agentic AI applications**, autonomous AI workflows, and AI-powered automation.
-
-🍽️ Building an **AI WhatsApp Ordering Assistant** inspired by Zomato using LLMs, Agents and modern AI frameworks.
-
-🌐 Passionate about developing scalable production-ready web applications instead of only local projects.
+🌐 Passionate about building scalable, production-ready applications that are deployed and used by real users—not just localhost projects.
 
 ---
 
@@ -40,8 +38,8 @@ Building real-world products that solve real problems.
 
 - React
 - Vite
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Tailwind CSS
 
 ### Backend
