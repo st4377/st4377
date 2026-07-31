@@ -66,7 +66,7 @@ Features
 
 ## 📄 Real-Time PDF Editor
 
-Developed during my Software Development Internship at **Zoho Corporation**
+Developed during my Internship at **Zoho Corporation**
 
 - Java
 - Apache PDFBox
