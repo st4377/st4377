@@ -95,7 +95,7 @@ Features
 
 Current Project
 
-Building an **Agentic AI-powered WhatsApp chatbot** inspired by Zomato.
+Working on  **Agentic AI-powered WhatsApp chatbot** for the food delivery apps.
 
 Working on
 
