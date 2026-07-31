@@ -30,13 +30,12 @@ Building real-world products that solve real problems.
 
 ### Languages
 
-- Java
+- C++
 - JavaScript
 - TypeScript
 - Python
-- C++
 - SQL
-
+- Java
 ### Frontend
 
 - React
