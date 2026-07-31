@@ -20,7 +20,7 @@ Building real-world products that solve real problems.
 
 🖥️ Cyber Security Intern at the **Uttar Pradesh State Institute of Forensic Science (UPSIFS)**, gaining practical experience in digital forensics, cyber investigation, and security tools.
 
-🌐 Passionate about building scalable, production-ready applications that are deployed and used by real users—not just localhost projects.
+🌐 Passionate about building scalable, production-ready applications that are deployed and used by real users.
 
 ---
 
